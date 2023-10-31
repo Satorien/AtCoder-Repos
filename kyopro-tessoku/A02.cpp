@@ -1,4 +1,4 @@
-#include <bits/stdc++.h> //string型などを扱うときに必要
+#include <bits/stdc++.h> //string型などを扱うときに必要（追記：関係なさそう）
 using namespace std;
 
 int main(){
